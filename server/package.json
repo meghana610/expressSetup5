@@ -1,0 +1,27 @@
+{
+  "name": "todoexpresssetuppostman",
+  "version": "1.0.0",
+  "description": "postman practice",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+   "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meghana610/expressSetup5.git"
+  },
+  "keywords": [
+    "postman",
+    "express"
+  ],
+  "author": "Meghana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghana610/expressSetup5/issues"
+  },
+  "homepage": "https://github.com/meghana610/expressSetup5#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
